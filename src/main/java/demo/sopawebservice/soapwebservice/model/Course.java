@@ -1,4 +1,4 @@
-package demo.sopawebservice.soapwebservice.mode;
+package demo.sopawebservice.soapwebservice.model;
 
 public class Course {
     private int id;

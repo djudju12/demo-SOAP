@@ -1,5 +1,5 @@
 
-package demo;
+package demo.sopawebservice.soapwebservice.xml;
 
 import jakarta.xml.bind.annotation.XmlAccessType;
 import jakarta.xml.bind.annotation.XmlAccessorType;

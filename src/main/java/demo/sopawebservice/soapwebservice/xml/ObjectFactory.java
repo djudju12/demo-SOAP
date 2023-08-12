@@ -1,5 +1,5 @@
 
-package demo;
+package demo.sopawebservice.soapwebservice.xml;
 
 import javax.xml.namespace.QName;
 import jakarta.xml.bind.JAXBElement;
